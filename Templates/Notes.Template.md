@@ -3,7 +3,7 @@
 ## 📌 Basic Info
 * **AI Tool for:** {{e.g., Video generation, Text-to-speech, Coding}}
 * **Primary Use Case:** {{What do I actually use this for?}}
-* **Link:** [Website/Dashboard]({{URL}})
+* **Link:** [Website/Dashboard](URL)
 
 ---
 
