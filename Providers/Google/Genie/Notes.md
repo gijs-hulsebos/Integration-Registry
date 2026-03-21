@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{Generative Interactive Worlds}}
 * **Primary Use Case:** {{Creating and exploring 3D worlds}}
-* **Link:** [Website/Dashboard](https://labs.google/projectgenie) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](https://labs.google/projectgenie) 
+* **Region:** {{USA}}
 
 ---
 
