@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{General purpose conversational LLM}}
 * **Primary Use Case:** {{LLM use cases: information, writing, basic coding, image generation - General purpose}}
-* **Link:** [Website/Dashboard](https://chatgpt.com) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](https://chatgpt.com) 
+* **Region:** {{USA}}
 
 ---
 
