@@ -18,7 +18,7 @@
 **{{What sucks / limitations?}}**
 * {{1. Latency: Agent has to interact with the pages in real time, making it significantly slower than basic text search.}}
 * {{2. Security Barriers: Struggles with complex CAPTCHAs (which are increasing in difficulty to combat bots) and 2FA}}
-* {{3. Privacy: Requires a high level of permission to read your active browser and therefore data}}
+* {{3. Privacy: Requires a high level of permission to read your active browser through Browser Memories and therefore data}}
 
 ---
 
