@@ -12,7 +12,7 @@
 
 **{{What is great about it?}}**
 * {{1. Autonomous Navigation: Allows Agents to browse and interact with websites for you}}
-* {{2. Context Awareness: It is multi-modal, so the agent is able to see/scan the website (instead of .json)}}
+* {{2. Context Awareness: It is OWL (OpenAI Web Layer - which allows the agent to interact with lay-out and text, so the agent is able to see/scan the website (instead of .json)}}
 * {{3. Deep Integration: Works seamlessly with other OpenAI products and with your existing GPT memory and custom instructions}}
 
 **{{What sucks / limitations?}}**
