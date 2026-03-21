@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{AI Video & Audio generation + platform}}
 * **Primary Use Case:** {{Creating videos of 15-25 seconds with audio}}
-* **Link:** [Website/Dashboard](https://sora.com) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](https://sora.com) 
+* **Region:** {{USA}}
 
 ---
 
