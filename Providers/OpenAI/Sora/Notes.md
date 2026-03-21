@@ -9,12 +9,12 @@
 
 ## ⚖️ {{Pros & Cons}}
 
-**What is great about it?**
+** {{What is great about it?}} **
 * {{1. Audio-Visual Sync: Sora 2 generates synchronized dialogue, sound effects, and music natively with the video.}}
 * {{2. Disney Partnership: Official integration allows for licensed character cameos (Disney, Marvel, Star Wars) for Pro users.}}
 * {{3. Physics Engine: Leading the market in 'world simulation'—objects have weight, buoyancy, and realistic collision.}}
 * {{4. Human Integration: Official 'Identity Licensing' (e.g., Mark Cuban, Sam Altman) allows you to create authorized videos featuring these real-world figures.}}
-* **What sucks / limitations?**
+* ** {{What sucks / limitations?}} **
 * {{1. High Cost: It is the most expensive consumer video AI ($200/mo for full 1080p/Pro features).}}
 * {{2. Strict Guardrails: Extremely sensitive filters for 'real' people; even family photos are often auto-stylized for safety.}}
 * {{3. Regional Blocks: As of 2026, still restricted in the UK and EEA due to local AI compliance regulations.}}
