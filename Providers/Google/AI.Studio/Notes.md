@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{Coding, API Management, Agentic, "Vibecoding"}}
 * **Primary Use Case:** {{Rapidly building multimodal applications}}
-* **Link:** [Website/Dashboard](https://aistudio.google.com) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](https://aistudio.google.com) 
+* **Region:** {{USA}}
 
 ---
 
