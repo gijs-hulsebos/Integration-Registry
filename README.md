@@ -33,7 +33,7 @@ Every service folder contains four essential Markdown files, each serving a dist
 * **`Capabilities.md`**: *What can it do?* – Technical specs, model limits, unique selling points, and commercial tiers.
 * **`Integration.md`**: *How do you build it?* – API endpoints, authentication headers, JSON payloads, and n8n node configurations.
 * **`Prompts.md`**: *How do you talk to it?* – Optimized System Prompts, few-shot examples, and fine-tuned parameter settings.
-* **`Notes.md`**: *What is the experience?* – Personal "Initial Architect Notes," latent "gotchas," real-world latency benchmarks, and use-case advice.
+* **`Notes.md`**: *What is the experience?* – Personal "Initial Architect Notes," latent "gotchas," real-world latency benchmarks, and use-case advice. - Human in the loop creation
 
 ---
 
@@ -48,10 +48,10 @@ This repository is built to be machine-readable:
 
 ## 🛠️ Templates
 Need to add a new service? Use the official blueprints to maintain consistency:
-* [Integration Template](./Integration.Template.md)
-* [Capabilities Template](./Capabilities.Template.md)
-* [Prompts Template](./Prompts.Template.md)
-* [Notes Template](./Notes.Template.md)
+* [Integration Template](./Templates/Integration.Template.md)
+* [Capabilities Template](./Templates/Capabilities.Template.md)
+* [Prompts Template](./Templates/Prompts.Template.md)
+* [Notes Template](./Templates/Notes.Template.md)
 
 ---
 
