@@ -1,9 +1,8 @@
-# Notes: {{Service_Name}}
+# Notes: {{Service_Name}} , {{Provider_Name}}
 
 ## 📌 Basic Info
 * **AI Tool for:** {{e.g., Video generation, Text-to-speech, Coding}}
 * **Primary Use Case:** {{What do I actually use this for?}}
-* **My Rating (1-10):** {{Score}}
 * **Link:** [Website/Dashboard]({{URL}})
 
 ---
