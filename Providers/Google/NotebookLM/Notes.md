@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{Personal Knowledge management & AI-Powered research}}
 * **Primary Use Case:** {{Consolidating diverse sources (PDFs, YouTube, Audio, Web) into a private, grounded knowledge base for synthesis, analysis, and content generation.}}
-* **Link:** [Website/Dashboard](URL) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](URL) 
+* **Region:** {{USA}}
 
 ---
 
