@@ -4,6 +4,7 @@
 * **AI Tool for:** {{AI-Native Browser}}
 * **Primary Use Case:** {{Researching across multiple tabs and automating web-actions}}
 * **Link:** [Website/Dashboard](https://chatgpt.com/atlas)
+* **Region:** {{USA}}
 
 ---
 
