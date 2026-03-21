@@ -3,7 +3,8 @@
 ## 📌 {{Basic Info}}
 * **AI Tool for:** {{Personal Intelligence, multimodal support for free plan, google integration}}
 * **Primary Use Case:** {{Planning of highly technical workflows which needs iterating}}
-* **Link:** [Website/Dashboard](https://gemini.google.com/) * **Region:** {{USA}}
+* **Link:** [Website/Dashboard](https://gemini.google.com/) 
+* **Region:** {{USA}}
 
 ---
 
